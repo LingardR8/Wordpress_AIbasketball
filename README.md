@@ -8,13 +8,13 @@
 账号：test123 密码：123456789
 
 首页
-![首页]https://github.com/LingardR8/Wordpress_AIbasketball/blob/main/ScreenShot_2026-01-21_211050_871.png
+![首页]https://github.com/LingardR8/Wordpress_AIbasketball/blob/main/ScreenShot_2026-01-21_211050_871.png<!-- 绝对路径 -->
 
 会员中心
-![会员中心]https://github.com/LingardR8/Wordpress_AIbasketball/blob/main/ScreenShot_2026-01-21_211110_017.png
+![会员中心]https://github.com/LingardR8/Wordpress_AIbasketball/blob/main/ScreenShot_2026-01-21_211110_017.png<!-- 绝对路径 -->
 
 分析页面
-![分析页面]https://github.com/LingardR8/Wordpress_AIbasketball/blob/main/ScreenShot_2026-01-21_211140_236.png
+![分析页面]https://github.com/LingardR8/Wordpress_AIbasketball/blob/main/ScreenShot_2026-01-21_211140_236.png<!-- 绝对路径 -->
 
 API对接
-![API对接]https://github.com/LingardR8/Wordpress_AIbasketball/blob/main/ScreenShot_2026-01-21_211153_913.png
+![API对接]https://github.com/LingardR8/Wordpress_AIbasketball/blob/main/ScreenShot_2026-01-21_211153_913.png<!-- 绝对路径 -->
