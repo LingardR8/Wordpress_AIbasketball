@@ -5,7 +5,12 @@
 带简易会员功能 针对不用用户组显示不同内容
 可自行二次开发
 体验地址：<ai.coasts.cc>
-账号：test123 密码：123456789
+账号：test001 密码：123456789
+账号：test002 密码：123456789
+后台更新抓取联赛数据并自动分析
+![后台](https://github.com/LingardR8/Wordpress_AIbasketball/blob/main/HT.png)
+前台增加大小分推荐
+![首页](https://github.com/LingardR8/Wordpress_AIbasketball/blob/main/QT.png)
 
 首页
 ![首页](https://github.com/LingardR8/Wordpress_AIbasketball/blob/main/ScreenShot_2026-01-21_211050_871.png)
